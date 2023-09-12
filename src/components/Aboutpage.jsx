@@ -12,7 +12,7 @@ function Aboutpage() {
                 <Row className='textbackground'>
                     <Col md={7} >
                         <h3 className='aboutmetext'>About <span>Me</span></h3>
-                        <p className='aboutdetails'> I m a self-taught Front End developer from India. I build websites with a focus on providing the experience for everyone using them and responsiveness. Curious to learn more about developing scalable distribution systems, love problem solving, and care about writing and maintainable code. A responsive design makes your website accessible to all users, regardless of their devices.
+                        <p className='aboutdetails'>I'm a software engineer at Etihad Airways Aviation Group in Abu Dhabi, specializing in digital technology innovation. With a background in Computer Science, I excel in ML libraries, web technologies, and coding competitions. I've led top-performing teams, won hackathons, and taught Python at Stanford University. My diverse skill set includes ReactJS, Node.js, Git, and more. Passionate about innovation, I'm eager to contribute to cutting-edge projects
                         </p>
                         <div className="skillsContainer">
                             <div className="skill--scroll">
