@@ -1,7 +1,7 @@
 import ProjectCard from "../components/Projectcard";
 import { Container, Row, Col } from "react-bootstrap";
-// import adminpanel from '/src/assets/images/adminpanel.jpg'
-import olximage from "/src/assets/images/olximage.jpg";
+import adminpanel from '/src/Assets/images/adminpanel.jpg'
+import olximage from "/src/Assets/images/olximage.jpg";
 import netfliximage from "/src/assets/images/netflix.jpg";
 import gridlinesbuilders from "/src/assets/images/Gridlinesbuilders.jpg";
 import charlespizza from "/src/assets/images/pizza.jpg";
